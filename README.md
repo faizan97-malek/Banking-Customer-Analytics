@@ -1,6 +1,18 @@
 # TD Banking Customer Analytics Dashboard
 
+## Dashboard Preview
 
+### Page 1 — Overview
+![Overview](screenshots/page1.png)
+
+### Page 2 — Customer Segmentation
+![Customer Segmentation](screenshots/page2.png)
+
+### Page 3 — Churn Analysis
+![Churn Analysis](screenshots/page3.png)
+
+### Page 4 — Customer Experience
+![Customer Experience](screenshots/page4.png)
 
 An industry-level Power BI dashboard built to simulate the customer analytics infrastructure used by retail banking teams at institutions like TD Bank. The dashboard delivers actionable insights across customer segmentation, churn analysis, loyalty, and satisfaction — mirroring the work of a Data Associate in TD's AI2 (Artificial Intelligence, Analytics & Insights) group.
 
@@ -114,10 +126,10 @@ Retention Rate % = 1 - [Churn Rate %]
 ## Project Structure
 
 ```
-TD-Banking-Customer-Analytics/
+Banking-Customer-Analytics/
 │
-├── TD_Banking_Customer_Analytics.pbix    # Main Power BI dashboard file
-├── TD_Banking_Dashboard_Preview.pdf      # 4-page dashboard export
+├── Banking_dashboard.pbix    # Main Power BI dashboard file
+├── TD_Banking_Dashboard.pdf      # 4-page dashboard export
 ├── README.md                             # Project documentation
 └── screenshots/
     ├── page1_overview.png
@@ -142,5 +154,5 @@ TD-Banking-Customer-Analytics/
 Built as a portfolio project targeting Data Associate / Data Analyst roles in the Canadian financial services sector. Designed to reflect the analytics stack and business questions relevant to TD Bank's AI2 group.
 
 **Author:** Faizan  
-**LinkedIn:** [Add your LinkedIn URL]  
-**Portfolio:** [Add your portfolio URL]
+**LinkedIn:** [Link](www.linkedin.com/in/faizanfarid-malek-3b1265313)  
+**Portfolio:** [Link](https://github.com/faizan97-malek)
