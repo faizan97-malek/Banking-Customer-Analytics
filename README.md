@@ -1,4 +1,4 @@
-# TD Banking Customer Analytics Dashboard
+# Banking Customer Analytics Dashboard
 
 ## Dashboard Preview
 
@@ -129,7 +129,7 @@ Retention Rate % = 1 - [Churn Rate %]
 Banking-Customer-Analytics/
 │
 ├── Banking_dashboard.pbix    # Main Power BI dashboard file
-├── TD_Banking_Dashboard.pdf      # 4-page dashboard export
+├── Banking_Dashboard.pdf      # 4-page dashboard export
 ├── README.md                             # Project documentation
 └── screenshots/
     ├── page1_overview.png
@@ -156,3 +156,4 @@ Built as a portfolio project targeting Data Associate / Data Analyst roles in th
 **Author:** Faizan  
 **LinkedIn:** [Link](www.linkedin.com/in/faizanfarid-malek-3b1265313)  
 **Portfolio:** [Link](https://github.com/faizan97-malek)
+**Kaggle:** [Link](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?resource=download)
